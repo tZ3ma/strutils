@@ -12,6 +12,7 @@ keywords = ["hypermodern", "template"]
 [tool.poetry.dependencies]
 python = "^3.8"
 requests = "^2.27.1"
+ittools = "^0.1.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"

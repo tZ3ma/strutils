@@ -1,5 +1,5 @@
 strutils
-====================================================================================================
+========
 
 |PyPI| |Python Version| |License| |Status|
 
@@ -92,8 +92,8 @@ strutils
    :alt: Package uses flake8
 
 
-Newb tweaked non-typing version of the excellent Hypermodern-Python_ project
-foundation proposed by `Claudio Jolowicz <cj>`_
+(compound) **STR**\ ing **UTIL**\ itie**S**\. Rudimentary, outdated, everywhere
+else found.
 
 Installation
 ------------
