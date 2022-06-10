@@ -1,7 +1,7 @@
 strutils
 ========
 
-(compound) **STR**\ ing **UTIL**\ itie**S**\ . Rudimentary, outdated, everywhere
+(compound) **STR**\ ing **UTIL**\ itie\ **S**\ . Rudimentary, outdated, everywhere
 else found.
 
 Strutils uses the excellent Hypermodern-Python_ project foundation proposed by

@@ -92,7 +92,7 @@ strutils
    :alt: Package uses flake8
 
 
-(compound) **STR**\ ing **UTIL**\ itie**S**\ . Rudimentary, outdated, everywhere
+(compound) **STR**\ ing **UTIL**\ itie\ **S**\ . Rudimentary, outdated, everywhere
 else found.
 
 Installation
