@@ -33,7 +33,7 @@ print(sys.path)
 
 # -- Project information -----------------------------------------------------
 
-project = "strutils - Hypermodern Python Project Template"
+project = "strutils - Compund String Utilities"
 author = "Mathias Ammon"
 copyright = f"2022, {author}"  # pylint: disable=redefined-builtin
 

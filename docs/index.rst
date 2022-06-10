@@ -1,9 +1,10 @@
 strutils
-=================================================================================================
+========
 
-strutils has been developed for making new hypermodern python projects a blast!
+(compound) **STR**\ ing **UTIL**\ itie**S**\. Rudimentary, outdated, everywhere
+else found.
 
-It uses the excellent Hypermodern-Python_ project foundation proposed by
+Strutils uses the excellent Hypermodern-Python_ project foundation proposed by
 `Claudio Jolowicz <cj>`_.
 
 .. toctree::
