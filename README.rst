@@ -23,7 +23,7 @@ strutils
    :target: https://opensource.org/licenses/MIT
    :alt: License
 
-.. |Status| image:: https://img.shields.io/pypi/status/strutils.svg
+.. |Status| image:: https://badgen.net/badge/status/alpha/d8624d
    :target: https://pypi.org/project/strutils/
    :alt: Status
 
