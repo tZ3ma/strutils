@@ -9,3 +9,11 @@ Everything should be copy-pastable and work out of the box, given your
 
 .. contents::
    :local:
+
+First Copy-Paste
+----------------
+
+.. code::
+
+   import strutils
+   strutils.sos_on('variable_cost')
